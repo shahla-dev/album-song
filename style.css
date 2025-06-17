@@ -559,7 +559,7 @@ video {
 
 	.container {
 		width: 90%;
-		margin-top: 190px;
+		padding: 40px;
 	}
 
 	.title {
@@ -584,7 +584,7 @@ video {
 	}
 
 	.slider {
-		animation: slidetop 107.5s linear forwards;
+		animation: slidetop 106.5s linear forwards;
 	}
 
 	@keyframes slidetop {
@@ -649,6 +649,11 @@ video {
 	#playBtn {
 		padding: 8px 18px;
 		font-size: 0.85rem;
+	}
+
+	.container {
+		width: 90%;
+		margin-top: 190px;
 	}
 
 	.title {
