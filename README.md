@@ -1,2 +1,2 @@
 # album-song
-album son of aditi akshit
+album song of aditi akshit
